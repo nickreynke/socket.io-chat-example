@@ -1,0 +1,23 @@
+{
+  "name": "socket.io-chat-example",
+  "version": "1.0.0",
+  "description": "Example chat application built with Socket.io: https://socket.io/get-started/chat/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickreynke/socket.io-chat-example.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/nickreynke/socket.io-chat-example/issues"
+  },
+  "homepage": "https://github.com/nickreynke/socket.io-chat-example#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "socket.io": "^2.0.3"
+  }
+}
